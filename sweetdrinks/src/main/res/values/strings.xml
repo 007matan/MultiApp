@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sweet Drink App</string>
+    <string name="title">Sweet Drink App</string>
+    <string name="avg">Sweet drink / day:</string>
+</resources>

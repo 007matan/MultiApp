@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smoking App</string>
+    <string name="title">Smoking App</string>
+    <string name="avg">Smokes / day:</string>
+</resources>
